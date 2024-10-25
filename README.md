@@ -134,14 +134,14 @@ Este  _manual_. te guiará en la elaboración de documentos  _manual_. de manera
 <hr>
 <h2>URL</h2> 
 
-[Saber sobre Github mediante URL en Markdown](https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.) 
+Para acceder al enlace con Markdown sobre que es githuv pincha [aquí ](https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails "aquí"). 
 
 <p>Para acceder al enlance con HTML sobre que es github pincha <a href="https://es.wikipedia.org/wiki/GitHub#:~:text=GitHub%20es%20una%20forja%20(plataforma,escrito%20en%20Ruby%20on%20Rails.">aquí</p>
 
   <ul>
   <li>Si queremos que mediante una frase una de sus palabras se diriga a un enlace con HTML, primero la frase deberá de ir dentro del comando <code>p</code>. Lo siguiente sera utilizar el comando<code>a href="URL de la página"</code> el comando debere de ir dento de <> y para cerrar el comando lo cerramos con  />, lo siguiente será poner la palabrá donde pincharemos para que nos diriga a la página y ya cerramos el comando <code>p</code> mediante  el cierre del comando <code>/p></code></li>
 
-<li>La sintaxis para acceder a un enlace con Markdown es: [Texto identificativo](URL de la imagen).</li>
+<li>La sintaxis para acceder a un enlace con Markdown mediante una palabra es: [Texto en el que llevará e](URL de la página).</li>
 </ul>
 <hr>
 <h2>Insertar una imagen con Markdown</h2>
