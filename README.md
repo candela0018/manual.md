@@ -14,7 +14,6 @@
 ## Encabezado de nivel dos con Markdown
 
 <ul>
-<p>Para que en nuestro markdown podamos poner un encabezado de nivel 2, podemos hacerlo mediante dos formas:</p>
 <li>Mediante HTML: Con el comando <code>h2</code> el cual irá dentro de <> escribimos el texto que queremos poner como encabezado de nivel 2 y cerramos el comando con <code>/h2></code>.</li>
 <li>Mediante Makdown: Podremos poner un encabezado de nivel 2 en markdown con una doble almohadilla ## un espacio y escribimos el texto que queremos poner como encabezado de nivel 2.</li>
 </ul>
@@ -24,7 +23,6 @@
 ### Encabezado de nivel tres con Markdown
 
 <ul>
-<p>Para que en nuestro markdown podamos poner un encabezado de nivel 3, podemos hacerlo mediante dos formas:</p>
 <li>Mediante HTML: Con el comando <code>h3</code> el cual irá dentro de <> escribimos el texto que queremos poner como encabezado de nivel 3 y cerramos el comando con <code>/h3></code>.</li>
 <li>Mediante Makdown: Podremos poner un encabezado de nivel 3 en markdown con una 3 almohadillas ### un espacio y escribimos el texto que queremos poner como encabezado de nivel 3.</li>
 </ul>
